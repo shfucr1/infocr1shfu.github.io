@@ -1,1 +1,0 @@
-# infocr1shfu.github.io
