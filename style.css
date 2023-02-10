@@ -28,7 +28,7 @@ body {
 .menu-bar {
   background-color: var(--color-black);
   height: 80px;
-  width: 100%;
+  width: 70%;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -43,7 +43,7 @@ body {
 }
 
 .menu-bar ul li {
-  /* width: 120px; */
+  /* width: 70px; */
   padding: 10px 30px;
   /* text-align: center; */
 
